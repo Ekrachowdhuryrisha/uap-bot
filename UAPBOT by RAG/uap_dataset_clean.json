@@ -1,0 +1,750 @@
+{
+  "metadata": {
+    "university": "University of Asia Pacific (UAP)",
+    "version": "1.0",
+    "total_entries": 60,
+    "topics": [
+      "admissions",
+      "fees",
+      "departments",
+      "campus",
+      "rules",
+      "exams"
+    ],
+    "source": "uap-bd.edu official website",
+    "note": "Always verify fees and policies from uap-bd.edu before finalizing."
+  },
+  "data": [
+    {
+      "id": 1,
+      "topic": "admissions",
+      "question": "How can I apply to UAP?",
+      "answer": "You can apply online at admission.uap-bd.edu. Fill in the application form, pay the application processing fee of Tk. 1,200, and submit the required documents. Admission is based on an entrance test result.",
+      "keywords": [
+        "apply",
+        "application",
+        "admission",
+        "online",
+        "how to apply"
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "admissions",
+      "question": "What is the application processing fee?",
+      "answer": "The application processing fee is Tk. 1,200 and it is non-refundable.",
+      "keywords": [
+        "application fee",
+        "processing fee",
+        "form fee",
+        "1200"
+      ]
+    },
+    {
+      "id": 3,
+      "topic": "admissions",
+      "question": "What documents are required for admission to UAP?",
+      "answer": "Required documents include SSC and HSC transcripts/certificates, passport-size photographs, national ID or birth certificate, and the completed admission form. The Registrar's Office may request additional documents.",
+      "keywords": [
+        "documents",
+        "admission requirements",
+        "SSC",
+        "HSC",
+        "certificates"
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "admissions",
+      "question": "Is there an admission test at UAP?",
+      "answer": "Yes, UAP has a selective admission policy based on entrance examinations. Admission test schedules and sample questions are available at uap-bd.edu/admission_test_date_time_sample_question.php.",
+      "keywords": [
+        "admission test",
+        "entrance exam",
+        "test schedule",
+        "sample questions"
+      ]
+    },
+    {
+      "id": 5,
+      "topic": "admissions",
+      "question": "When does the admission test result get published?",
+      "answer": "Admission test results are published on the UAP website at uap-bd.edu/admission_test_results.php. Check the official website or the student portal for updates.",
+      "keywords": [
+        "admission result",
+        "test result",
+        "result published"
+      ]
+    },
+    {
+      "id": 6,
+      "topic": "admissions",
+      "question": "Can international students apply to UAP?",
+      "answer": "Yes, UAP accepts international applicants. International students are eligible to apply for enrollment in both undergraduate and graduate programs.",
+      "keywords": [
+        "international students",
+        "foreign students",
+        "overseas"
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "admissions",
+      "question": "When does UAP take new admissions?",
+      "answer": "UAP typically takes admissions for Spring and Fall semesters. Class start dates are decided by the Admission Office and respective departments. Check the UAP website for the current admission notice.",
+      "keywords": [
+        "admission schedule",
+        "when is admission",
+        "semester start",
+        "class start"
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "admissions",
+      "question": "What programs does UAP offer at the undergraduate level?",
+      "answer": "UAP offers B.Sc. in CSE, B.Sc. in Civil Engineering, B.Sc. in EEE, BBA, B.Arch, B.A. (Hons.) in English, LL.B. (Hons.), and Bachelor of Pharmacy.",
+      "keywords": [
+        "undergraduate programs",
+        "bachelor programs",
+        "courses offered",
+        "departments"
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "admissions",
+      "question": "What are the minimum academic requirements for undergraduate admission?",
+      "answer": "Applicants must have passed SSC and HSC (or equivalent) examinations. Specific GPA requirements vary by program. Please check the official admission requirements page at uap-bd.edu/admission_requirment_undergraduate.php.",
+      "keywords": [
+        "eligibility",
+        "minimum GPA",
+        "SSC HSC result",
+        "academic requirement"
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "admissions",
+      "question": "Does UAP offer graduate programs?",
+      "answer": "Yes, UAP offers graduate programs including M.Sc. in CSE, M.Sc. in Civil Engineering, M.Sc. in EEE, MBA, EMBA, M.Arch, M.Pharm, LL.M., Master of Laws, and Master of Human Rights.",
+      "keywords": [
+        "graduate programs",
+        "masters",
+        "MBA",
+        "MSc",
+        "postgraduate"
+      ]
+    },
+    {
+      "id": 11,
+      "topic": "fees",
+      "question": "What is the total admission fee at UAP?",
+      "answer": "The total admission fee is Tk. 21,500 which includes: Admission Fee Tk. 13,000, Extra-Curricular Activities Fee Tk. 5,000, Certificate Verification & ID Card Fee Tk. 500 (all non-refundable), plus Caution Money Tk. 3,000 which is refundable.",
+      "keywords": [
+        "admission fee",
+        "total fee",
+        "21500",
+        "caution money"
+      ]
+    },
+    {
+      "id": 12,
+      "topic": "fees",
+      "question": "How much is the tuition fee for CSE at UAP?",
+      "answer": "For B.Sc. in CSE: Registration Fee is Tk. 45,000 per semester and Tuition Fee is Tk. 55,000 per semester, totalling Tk. 1,00,000 per semester. Over 8 semesters the total semester fee is Tk. 8,00,000. Total cost including admission fees is approximately Tk. 8,32,700.",
+      "keywords": [
+        "CSE fee",
+        "computer science fee",
+        "tuition CSE",
+        "BSc CSE cost"
+      ]
+    },
+    {
+      "id": 13,
+      "topic": "fees",
+      "question": "What is the total cost of BBA at UAP?",
+      "answer": "For BBA: Registration Fee is Tk. 40,000 per semester and Tuition Fee is Tk. 45,000 per semester, totalling Tk. 85,000 per semester. Over 8 semesters total semester fee is Tk. 6,80,000. Total cost with admission fees is approximately Tk. 7,22,700. There is also an additional Internship Fee of Tk. 10,000.",
+      "keywords": [
+        "BBA fee",
+        "business administration fee",
+        "BBA cost",
+        "BBA tuition"
+      ]
+    },
+    {
+      "id": 14,
+      "topic": "fees",
+      "question": "How much does it cost to study Architecture at UAP?",
+      "answer": "For B.Arch: Registration Fee is Tk. 50,000 per semester and Tuition Fee is Tk. 55,000 per semester, totalling Tk. 1,05,000 per semester. Over 10 semesters total semester fee is Tk. 10,50,000. Total cost with admission fees is approximately Tk. 10,82,700.",
+      "keywords": [
+        "architecture fee",
+        "B.Arch cost",
+        "architecture tuition"
+      ]
+    },
+    {
+      "id": 15,
+      "topic": "fees",
+      "question": "What is the fee for Civil Engineering at UAP?",
+      "answer": "For B.Sc. in Civil Engineering: Registration Fee Tk. 45,000 + Tuition Fee Tk. 55,000 = Tk. 1,00,000 per semester. Total semester fee over 8 semesters is Tk. 8,00,000. Total cost with admission is approximately Tk. 8,32,700.",
+      "keywords": [
+        "civil engineering fee",
+        "CE tuition",
+        "civil engineering cost"
+      ]
+    },
+    {
+      "id": 16,
+      "topic": "fees",
+      "question": "What is the fee for EEE at UAP?",
+      "answer": "For B.Sc. in EEE: Registration Fee Tk. 45,000 + Tuition Fee Tk. 55,000 = Tk. 1,00,000 per semester. Total semester fee over 8 semesters is Tk. 8,00,000. Total cost with admission is approximately Tk. 8,32,700.",
+      "keywords": [
+        "EEE fee",
+        "electrical engineering fee",
+        "EEE tuition cost"
+      ]
+    },
+    {
+      "id": 17,
+      "topic": "fees",
+      "question": "What is the fee for Pharmacy at UAP?",
+      "answer": "For Bachelor of Pharmacy: Registration Fee Tk. 60,000 + Tuition Fee Tk. 65,000 = Tk. 1,25,000 per semester. Total semester fee over 8 semesters is Tk. 10,00,000. Total cost with admission fees is approximately Tk. 10,33,200.",
+      "keywords": [
+        "pharmacy fee",
+        "pharmacy tuition",
+        "pharmacy cost"
+      ]
+    },
+    {
+      "id": 18,
+      "topic": "fees",
+      "question": "What is the fee for LL.B. at UAP?",
+      "answer": "For LL.B. (Hons.): Registration Fee Tk. 45,000 + Tuition Fee Tk. 55,000 = Tk. 1,00,000 per semester. Total semester fee over 8 semesters is Tk. 8,00,000. Total cost with admission fees is approximately Tk. 8,36,700. An additional Intensive English Course (IEC-100) fee of Tk. 4,000 applies.",
+      "keywords": [
+        "LLB fee",
+        "law fee",
+        "LLB cost",
+        "law tuition"
+      ]
+    },
+    {
+      "id": 19,
+      "topic": "fees",
+      "question": "Can I pay tuition fees in installments?",
+      "answer": "Yes, the tuition fee can be paid in three installments. However, the registration fee must be paid in full before the semester starts.",
+      "keywords": [
+        "installment",
+        "pay in installments",
+        "tuition payment",
+        "fee payment"
+      ]
+    },
+    {
+      "id": 20,
+      "topic": "fees",
+      "question": "Is caution money refundable?",
+      "answer": "Yes, the Caution Money of Tk. 3,000 is refundable upon completion or withdrawal from the program, subject to university policy.",
+      "keywords": [
+        "caution money",
+        "refundable",
+        "security deposit",
+        "3000"
+      ]
+    },
+    {
+      "id": 21,
+      "topic": "fees",
+      "question": "Does UAP offer any scholarships or fee waivers?",
+      "answer": "Yes, UAP offers merit-based and CGPA-based scholarships and fee waivers for undergraduate students. Details on bachelor's waivers are available at uap-bd.edu/tution.php.",
+      "keywords": [
+        "scholarship",
+        "waiver",
+        "fee waiver",
+        "financial aid",
+        "merit scholarship"
+      ]
+    },
+    {
+      "id": 22,
+      "topic": "fees",
+      "question": "What is the convocation fee at UAP?",
+      "answer": "The Convocation Registration Fee is Tk. 10,000. This must be paid before the convocation ceremony.",
+      "keywords": [
+        "convocation fee",
+        "graduation fee",
+        "10000"
+      ]
+    },
+    {
+      "id": 23,
+      "topic": "departments",
+      "question": "What schools does UAP have?",
+      "answer": "UAP has six schools: School of Engineering, School of Business, School of Environmental Sciences and Design, School of Humanities & Social Sciences, School of Pharmacy, and School of Law.",
+      "keywords": [
+        "schools",
+        "faculties",
+        "departments",
+        "schools in UAP"
+      ]
+    },
+    {
+      "id": 24,
+      "topic": "departments",
+      "question": "What programs are offered in the School of Engineering?",
+      "answer": "The School of Engineering offers B.Sc. in CSE, B.Sc. in Civil Engineering, and B.Sc. in EEE at undergraduate level, and M.Sc. programs in all three disciplines at graduate level.",
+      "keywords": [
+        "engineering programs",
+        "school of engineering",
+        "CSE",
+        "EEE",
+        "Civil"
+      ]
+    },
+    {
+      "id": 25,
+      "topic": "departments",
+      "question": "Does UAP have a law department?",
+      "answer": "Yes. UAP's School of Law offers LL.B. (Hons.) at undergraduate level and LL.M. (General), UMSAILS LL.M., and Master of Human Rights at graduate level.",
+      "keywords": [
+        "law",
+        "LLB",
+        "LLM",
+        "law department",
+        "school of law"
+      ]
+    },
+    {
+      "id": 26,
+      "topic": "departments",
+      "question": "What business programs does UAP offer?",
+      "answer": "The School of Business offers BBA at undergraduate level and MBA and Executive MBA (EMBA) at graduate level.",
+      "keywords": [
+        "BBA",
+        "MBA",
+        "EMBA",
+        "business",
+        "school of business"
+      ]
+    },
+    {
+      "id": 27,
+      "topic": "departments",
+      "question": "Does UAP have an English department?",
+      "answer": "Yes. The School of Humanities & Social Sciences offers B.A. (Hons.) in English Language and Literature at undergraduate level, and M.A. in Applied Linguistics and ELT at graduate level.",
+      "keywords": [
+        "English department",
+        "BA English",
+        "humanities",
+        "applied linguistics",
+        "ELT"
+      ]
+    },
+    {
+      "id": 28,
+      "topic": "departments",
+      "question": "What is the credit hour requirement for B.Sc. in CSE?",
+      "answer": "The B.Sc. in CSE program requires 153 credit hours, completed over 8 semesters (4 years).",
+      "keywords": [
+        "credit hours CSE",
+        "CSE credits",
+        "CSE duration",
+        "computer science credits"
+      ]
+    },
+    {
+      "id": 29,
+      "topic": "departments",
+      "question": "How many credit hours are required for B.Arch?",
+      "answer": "The B.Arch program requires 182 credit hours, completed over 10 semesters (5 years).",
+      "keywords": [
+        "architecture credits",
+        "B.Arch credit hours",
+        "architecture duration"
+      ]
+    },
+    {
+      "id": 30,
+      "topic": "departments",
+      "question": "How long is the BBA program at UAP?",
+      "answer": "The BBA program is 4 years (8 semesters) and requires 129 credit hours.",
+      "keywords": [
+        "BBA duration",
+        "BBA years",
+        "BBA semesters",
+        "BBA credit hours"
+      ]
+    },
+    {
+      "id": 31,
+      "topic": "campus",
+      "question": "Where is UAP located?",
+      "answer": "UAP is located at 74/A, Green Road, Farmgate, Dhaka-1205, Bangladesh.",
+      "keywords": [
+        "UAP location",
+        "address",
+        "where is UAP",
+        "Green Road",
+        "Farmgate"
+      ]
+    },
+    {
+      "id": 32,
+      "topic": "campus",
+      "question": "What is UAP's contact number?",
+      "answer": "UAP's PABX number is +8802-41010626-9 and the FAX number is +8802-41010630.",
+      "keywords": [
+        "contact number",
+        "phone number",
+        "PABX",
+        "UAP contact"
+      ]
+    },
+    {
+      "id": 33,
+      "topic": "campus",
+      "question": "Does UAP have a library?",
+      "answer": "Yes, UAP has a library with an online catalogue (OPAC) accessible at library.uap-bd.edu. UAP also provides OpenAthens access to international research databases.",
+      "keywords": [
+        "library",
+        "OPAC",
+        "books",
+        "research",
+        "library access"
+      ]
+    },
+    {
+      "id": 34,
+      "topic": "campus",
+      "question": "Does UAP have a student portal?",
+      "answer": "Yes, UAP uses UCAM (University Campus Automation Management) as its student portal, accessible at ucam.uap-bd.edu. Students can check results, registration, and other academic information there.",
+      "keywords": [
+        "student portal",
+        "UCAM",
+        "online portal",
+        "student login"
+      ]
+    },
+    {
+      "id": 35,
+      "topic": "campus",
+      "question": "Does UAP have computer labs?",
+      "answer": "Yes, UAP provides modern laboratory facilities including computer labs for CSE and EEE students, architecture studios, pharmacy labs, and general science labs.",
+      "keywords": [
+        "computer lab",
+        "labs",
+        "facilities",
+        "laboratory"
+      ]
+    },
+    {
+      "id": 36,
+      "topic": "campus",
+      "question": "Does UAP have extracurricular activities and clubs?",
+      "answer": "Yes, UAP has an active extracurricular culture including clubs, seminars, and co-curricular activities. The Extra-Curricular Activities Fee collected at admission supports these programs.",
+      "keywords": [
+        "clubs",
+        "extracurricular",
+        "activities",
+        "student life",
+        "events"
+      ]
+    },
+    {
+      "id": 37,
+      "topic": "campus",
+      "question": "Does UAP have any international partnerships?",
+      "answer": "Yes, UAP has an Office of International Affairs (OIA) that manages international affiliations, MoUs, collaborations, and exchange programs with universities abroad.",
+      "keywords": [
+        "international",
+        "exchange program",
+        "MoU",
+        "collaboration",
+        "partnership"
+      ]
+    },
+    {
+      "id": 38,
+      "topic": "campus",
+      "question": "Does UAP have a webmail for students?",
+      "answer": "Yes, UAP provides institutional email (webmail) for students and faculty, accessible at mail.google.com/a/uap-bd.edu using the UAP domain.",
+      "keywords": [
+        "webmail",
+        "email",
+        "student email",
+        "UAP email"
+      ]
+    },
+    {
+      "id": 39,
+      "topic": "campus",
+      "question": "When was UAP established?",
+      "answer": "UAP was established in 1996 as a private university under the Private University Act 1992, by the University of Asia Pacific Foundation (UAPF), a non-profit organization based in Dhaka.",
+      "keywords": [
+        "UAP established",
+        "founded",
+        "history",
+        "when was UAP",
+        "1996"
+      ]
+    },
+    {
+      "id": 40,
+      "topic": "campus",
+      "question": "Is UAP approved by UGC?",
+      "answer": "Yes, UAP is approved and listed by the University Grants Commission (UGC) of the Government of Bangladesh. Its curriculum is UGC-approved.",
+      "keywords": [
+        "UGC approved",
+        "government approved",
+        "accreditation",
+        "recognized"
+      ]
+    },
+    {
+      "id": 41,
+      "topic": "rules",
+      "question": "What is the attendance policy at UAP?",
+      "answer": "Students are expected to maintain a minimum attendance in classes as per UAP academic rules. Consistent absence may result in being barred from sitting for exams. Please confirm current thresholds with your respective department.",
+      "keywords": [
+        "attendance",
+        "attendance policy",
+        "class attendance",
+        "absent"
+      ]
+    },
+    {
+      "id": 42,
+      "topic": "rules",
+      "question": "What happens if I fail a course at UAP?",
+      "answer": "If a student fails a course, they are typically required to retake the course in a subsequent semester. Grade improvement policies vary by department. Contact your academic advisor for details.",
+      "keywords": [
+        "fail",
+        "retake",
+        "failed course",
+        "grade",
+        "repeat course"
+      ]
+    },
+    {
+      "id": 43,
+      "topic": "rules",
+      "question": "Can I transfer credits from another university to UAP?",
+      "answer": "UAP may consider credit transfers on a case-by-case basis. Students wishing to transfer credits should contact the Registrar's Office with official transcripts and course descriptions from the previous institution.",
+      "keywords": [
+        "credit transfer",
+        "transfer student",
+        "transfer credits"
+      ]
+    },
+    {
+      "id": 44,
+      "topic": "rules",
+      "question": "What is UAP's plagiarism policy?",
+      "answer": "UAP takes academic integrity seriously. Plagiarism in assignments or research is subject to disciplinary action. UAP provides access to plagiarism checker tools for students and faculty.",
+      "keywords": [
+        "plagiarism",
+        "academic integrity",
+        "cheating policy",
+        "originality"
+      ]
+    },
+    {
+      "id": 45,
+      "topic": "rules",
+      "question": "How do I withdraw from a semester at UAP?",
+      "answer": "To withdraw from a semester, students must apply formally to the Registrar's Office within the deadline specified in the academic calendar. Caution money may be refunded subject to university policy.",
+      "keywords": [
+        "withdraw",
+        "semester withdrawal",
+        "drop semester",
+        "leave"
+      ]
+    },
+    {
+      "id": 46,
+      "topic": "rules",
+      "question": "Is there a dress code at UAP?",
+      "answer": "UAP expects students to dress in a professional and culturally appropriate manner on campus. Specific dress code guidelines are communicated by the university administration.",
+      "keywords": [
+        "dress code",
+        "uniform",
+        "clothing",
+        "attire"
+      ]
+    },
+    {
+      "id": 47,
+      "topic": "rules",
+      "question": "What is the grading system at UAP?",
+      "answer": "UAP uses a letter-grade and GPA system. Grades typically range from A+ to F. Maintaining a satisfactory CGPA is required to continue enrollment and to be eligible for scholarships. Contact your department for the full grading scale.",
+      "keywords": [
+        "grading",
+        "GPA",
+        "CGPA",
+        "grades",
+        "grading system",
+        "letter grade"
+      ]
+    },
+    {
+      "id": 48,
+      "topic": "rules",
+      "question": "Can I change my department after admission?",
+      "answer": "Department changes after admission are subject to availability and departmental approval. Students must apply to the Registrar's Office within the specified period. Not all transfers are guaranteed.",
+      "keywords": [
+        "change department",
+        "transfer department",
+        "switch program",
+        "department change"
+      ]
+    },
+    {
+      "id": 49,
+      "topic": "exams",
+      "question": "How many exams are held per semester at UAP?",
+      "answer": "Each semester at UAP typically includes Class Tests, a Midterm Examination, and a Final Examination. Quizzes and assignments may also contribute to the final grade, varying by course and department.",
+      "keywords": [
+        "exams",
+        "semester exams",
+        "midterm",
+        "final exam",
+        "class test"
+      ]
+    },
+    {
+      "id": 50,
+      "topic": "exams",
+      "question": "Where can I check my exam results at UAP?",
+      "answer": "Exam results are published on the UCAM student portal at ucam.uap-bd.edu. You can log in with your student credentials to view your grades and CGPA.",
+      "keywords": [
+        "exam result",
+        "check result",
+        "CGPA",
+        "grade result",
+        "semester result"
+      ]
+    },
+    {
+      "id": 51,
+      "topic": "exams",
+      "question": "What is the academic calendar of UAP?",
+      "answer": "UAP's academic calendar including semester start dates, exam schedules, and holidays is published on the official website at uap-bd.edu/aca-calender.php.",
+      "keywords": [
+        "academic calendar",
+        "semester dates",
+        "exam schedule",
+        "calendar"
+      ]
+    },
+    {
+      "id": 52,
+      "topic": "exams",
+      "question": "Can I apply for re-evaluation of my exam paper?",
+      "answer": "Yes, UAP typically allows students to apply for re-checking or re-evaluation of answer scripts within a specified deadline after results are published. Contact the Registrar's Office or your department for the procedure.",
+      "keywords": [
+        "re-evaluation",
+        "recheck",
+        "appeal result",
+        "re-check paper",
+        "rescrutiny"
+      ]
+    },
+    {
+      "id": 53,
+      "topic": "exams",
+      "question": "What minimum CGPA do I need to maintain at UAP?",
+      "answer": "Students are generally required to maintain a minimum CGPA as specified by their respective department to continue enrollment. Scholarship eligibility also depends on CGPA. Contact your department for the specific threshold.",
+      "keywords": [
+        "minimum CGPA",
+        "CGPA requirement",
+        "academic standing",
+        "maintain GPA"
+      ]
+    },
+    {
+      "id": 54,
+      "topic": "exams",
+      "question": "Does UAP have an online exam system?",
+      "answer": "UAP uses the UCAM automation system for academic management. During special circumstances (e.g., COVID-19), UAP shifted to online modes. Current exam formats depend on university policy per semester.",
+      "keywords": [
+        "online exam",
+        "online class",
+        "remote exam",
+        "digital exam"
+      ]
+    },
+    {
+      "id": 55,
+      "topic": "exams",
+      "question": "How do I get my transcript from UAP?",
+      "answer": "Official transcripts can be requested from the Registrar's Office at UAP. Students may need to apply in person or through the UCAM portal and pay any applicable fee. Processing time may vary.",
+      "keywords": [
+        "transcript",
+        "official transcript",
+        "academic record",
+        "certificate"
+      ]
+    },
+    {
+      "id": 56,
+      "topic": "exams",
+      "question": "What happens if I miss a final exam at UAP?",
+      "answer": "Missing a final exam without prior approval typically results in a failing grade for that exam. A make-up exam may be possible under exceptional circumstances (e.g., medical emergency) with official documentation and departmental approval.",
+      "keywords": [
+        "miss exam",
+        "absent exam",
+        "makeup exam",
+        "missed final"
+      ]
+    },
+    {
+      "id": 57,
+      "topic": "exams",
+      "question": "How is the final grade calculated at UAP?",
+      "answer": "Final grades at UAP are usually calculated based on a combination of class tests, assignments, midterm exam, and final exam marks. The exact weightage varies per course. Refer to your course syllabus or department for the breakdown.",
+      "keywords": [
+        "grade calculation",
+        "marks distribution",
+        "how grades work",
+        "weightage"
+      ]
+    },
+    {
+      "id": 58,
+      "topic": "general",
+      "question": "What is UAP's vision?",
+      "answer": "UAP's vision is to advance science, technology, and humanities through innovation in higher education, research, and development for a better society.",
+      "keywords": [
+        "vision",
+        "mission",
+        "UAP vision",
+        "goal"
+      ]
+    },
+    {
+      "id": 59,
+      "topic": "general",
+      "question": "Does UAP have a Facebook page?",
+      "answer": "Yes, UAP's official Facebook page is at facebook.com/UAPBDDhaka. They also have LinkedIn, YouTube, and ResearchGate profiles.",
+      "keywords": [
+        "Facebook",
+        "social media",
+        "UAP Facebook",
+        "online presence"
+      ]
+    },
+    {
+      "id": 60,
+      "topic": "general",
+      "question": "How do I contact UAP for more information?",
+      "answer": "You can contact UAP at their Dhaka campus: 74/A, Green Road, Farmgate, Dhaka-1205. Phone: +8802-41010626-9. You can also reach them via the official website uap-bd.edu or email through UAP webmail.",
+      "keywords": [
+        "contact UAP",
+        "UAP phone",
+        "reach UAP",
+        "information",
+        "helpline"
+      ]
+    }
+  ]
+}
